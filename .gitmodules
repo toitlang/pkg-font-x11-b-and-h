@@ -3,4 +3,4 @@
 	url = https://github.com/toitlang/toit-font-tools.git
 [submodule "xorg-font-bh-100dpi"]
 	path = xorg-font-bh-100dpi
-	url = https://github.com/freedesktop/xorg-font-bh-100dpi.git
+	url = https://gitlab.freedesktop.org/xorg/font/bh-100dpi.git
